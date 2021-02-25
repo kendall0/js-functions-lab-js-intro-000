@@ -16,5 +16,5 @@ function happyCustomHolidayTo(holiday, name) {
 var holiday = Hanukkah
 var days = two
 function holidayCountdown(holiday, days) {
-  returns "It's ${days} days until ${holiday}!":
+  returns (`It's ${days} days until ${holiday}!`):
 }
