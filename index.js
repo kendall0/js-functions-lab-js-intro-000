@@ -10,5 +10,5 @@ function happyHolidaysTo(name) {
 var holiday = "Hanukkah";
 var name = "Janet";
 function happyCustomHolidayTo(holiday, name) {
-  return(`Happy ${holiday}, ${name}`);
+  return(`Happy ${holiday}, ${name}!`);
 }
